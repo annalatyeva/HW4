@@ -1,0 +1,340 @@
+body {
+    width: 100%;
+    background-color: rgb(36, 43, 51);
+    background-image: url(../assets/back_img.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.logo { 
+    position: relative;
+    height: 35px;
+    width: auto;
+}
+.logo1 {
+    left: 255px;
+    top: 25px;
+    padding: 0;
+    margin: 0;
+}
+.textblock {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: rgba(212, 193, 127, 1);
+}
+input:focus {
+    color:black
+}
+.menu {
+    float: left;
+    margin-left: 22.5px;
+    margin-top: -3.5px;
+    width: fit-content;
+    color: inherit;
+    text-decoration: none;
+    font-size: 10px;
+}
+.left_nav {
+    margin-left: 617px;
+}
+main {
+    text-align: center;
+}
+h1, h2 {   
+    color: rgba(212, 193, 127, 1);
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+h1 {
+    margin-top: 148px;
+    font-size: 30px;
+    letter-spacing: 0.01em;
+    line-height: 41px;
+}
+#mouse {
+    height: 27px;
+    width: auto;
+    margin-top: 29px;
+    margin-bottom: 118px;
+}
+.place_phone {
+    height: 15px;
+    margin-right: 5px;
+    padding-left: 7.5px;
+
+}
+.place_phone_text {
+    padding-right: 55px;
+    font-size: 11px;
+}
+.second_screen {
+    float: left;
+    margin-top: 119px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 15.5px;
+    padding-right: 30px;
+    padding-left: 20px;
+}
+.second_screen_pic{
+    height: 52px;
+    width: auto;
+    margin-bottom: 46px;
+}
+.second_screen_left {
+    margin-left: 360px;
+    margin-right: -30px;
+}
+.second_screen_text {
+    margin-left: -90px;
+}
+.numbers {
+    height: 178px;
+}
+#num2 {
+    margin-top: 105px;
+    margin-right: 161px;
+    margin-left: 0px;
+}
+h2 {
+    width: 70%;
+    padding-left: 257px;
+    margin-top: 26px;
+    text-align: left;
+    font-size: 22px;
+    letter-spacing: 0.014em;
+}
+#num3 {
+    float: left;
+    position: relative;
+    left: 125px;
+    z-index: 1;
+}
+.third_screen_foto {
+    position: relative;
+    z-index: 2;
+    float: left;
+    height: 203px;
+    width: auto;
+
+}
+#foto1 {
+    top: 39px;
+    left: -10.5px;
+    padding-bottom: 30px;
+}
+#foto2 {
+    top: 39px;
+    left: 7px;
+}
+#foto3{
+    top: 58px;
+    left: -349.5px
+}
+#foto4{
+    top: -145px;
+    left: 613px;
+}
+.third_screen_text {
+    position: relative;
+    z-index: 3;
+    font-size: 14.5px;
+    letter-spacing: 0.015em;
+}
+#text1 {
+    left: -676px;
+    top: 196px;
+}
+#text2 {
+    left: -436px;
+    top: 196px;
+}
+#text3 {
+    left: -676px;
+    top: 399.5px;
+}
+#text4 {
+    left: -436px;
+    top: 399.5px;
+}
+#s3_5header {
+    float: left;
+    margin-top: -29px;
+}
+#sheet3_5 {
+    height: 300px;
+    margin-top: 426px;
+    background-image: url(..//assets/3_5screen/back_img2.png);
+    background-size: 100%;
+    
+}
+#lorem_text {
+    width: 28%;
+    float: left;
+    margin-left: 256px;
+    margin-top: 9.2px;
+    font-size: 10px;
+    line-height: 15px;
+    letter-spacing: 0.008em;
+    text-align: left;
+}
+input:focus {
+    color:black
+}
+.form {margin-top: -5.6px;
+    float: right;
+    width: 154px;
+    height: 26.5px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.form_left {
+    margin-right: 436px;
+}
+.form_right {
+    margin-top: -33.5px;
+    margin-right: 257px;
+}
+.form::placeholder {
+    font-family: 'Raleway', sans-serif;
+}
+.form::placeholder {
+    font-weight: 400;
+}
+.form::placeholder {
+    font-size: 10px;
+}
+.form::placeholder {
+    text-align: center;
+}
+.form::placeholder {
+    color: white;
+}
+.note {
+    float: left;
+    width: 154px;
+    line-height: 10px;
+    letter-spacing: 0.012em;
+    font-size: 8px;
+}
+.note1 {
+    margin-top: 30px;
+    margin-left: 24px;
+}
+.button {
+    float: left;
+    width: 165px;
+    height: 34px;
+    background-color: rgba(212, 193, 127, 1);
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 10px;
+}
+.button1 {
+    margin-top: 20.5px;
+    margin-left: 21px;
+}
+#video {
+    height: 410px;
+    margin-top: 55px;
+    margin-left: 270px;
+    margin-right: -109px;
+}
+#num4 {
+    float: right;
+    margin-top: 170px;
+    margin-right: 127px;
+}
+#s5header {
+    margin-top: 115px;
+}
+#num5 {
+    float: left;
+    position: relative;
+    top: 3px;
+    left: 165px;
+    z-index: 1;
+}
+#map {
+    position: relative;
+    z-index: 2;
+    height: 226px;
+    top: 39px;
+    left: -86.5px;
+}
+#s5_5header {
+    margin-top: 151.5px;
+}
+.note2 {
+    margin-top: 16.6px;
+    margin-left: 257px;
+}
+.form_left2 {
+    float: left;
+    margin-top: 6px;
+    margin-left: 23px;
+}
+.form_right2 {
+    float: left;
+    margin-top: 6px;
+    margin-left: 19px;
+}
+.button2 {
+    margin-top: 7px;
+    margin-left: 19px;
+}
+.logo2 {
+    float: left;
+    margin-top: 45px;
+    margin-left: 255px;
+}
+footer {
+    height: 170px;
+    background-color: rgba(45, 52, 60, 1);
+    margin-top: 172px;
+}
+.down_menu {
+    margin-left: 50px;
+    margin-top: 35px;
+    color: inherit;
+    text-decoration: none;
+    font-size: 10px;
+    line-height: 0.95em;
+}
+nav.down_menu {
+    float: left;
+}
+.left_menu {
+    width: 130px;
+}
+.right_menu {
+    float: right;
+    width: 130px;
+    margin-top: -107px;
+    margin-left: 180px;
+}
+address{
+    float: left;
+    width: 160px;
+    margin-top: 36px;
+    margin-left: 102px;
+    font-style: normal;
+    font-size: 10px;
+    line-height: 0.95em;
+}
+div.network_logo{
+    float: left;
+    margin-top: 3px;
+
+}
+img.network_logo {
+    height: 12px;
+    padding-right: 11px;
+}
